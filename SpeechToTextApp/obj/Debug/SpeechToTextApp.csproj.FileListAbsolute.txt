@@ -1,0 +1,11 @@
+C:\Users\MSI\source\repos\SpeechToTextApp\bin\Debug\SpeechToTextApp.exe.config
+C:\Users\MSI\source\repos\SpeechToTextApp\bin\Debug\SpeechToTextApp.exe
+C:\Users\MSI\source\repos\SpeechToTextApp\bin\Debug\SpeechToTextApp.pdb
+C:\Users\MSI\source\repos\SpeechToTextApp\obj\Debug\SpeechToTextApp.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\SpeechToTextApp\obj\Debug\SpeechToTextApp.Form1.resources
+C:\Users\MSI\source\repos\SpeechToTextApp\obj\Debug\SpeechToTextApp.Properties.Resources.resources
+C:\Users\MSI\source\repos\SpeechToTextApp\obj\Debug\SpeechToTextApp.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\SpeechToTextApp\obj\Debug\SpeechToTextApp.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\SpeechToTextApp\obj\Debug\SpeechToTextApp.exe
+C:\Users\MSI\source\repos\SpeechToTextApp\obj\Debug\SpeechToTextApp.pdb
+C:\Users\MSI\source\repos\SpeechToTextApp\obj\Debug\SpeechToTextApp.exe.config
